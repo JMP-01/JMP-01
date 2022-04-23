@@ -1,4 +1,0 @@
-- 👋 Hi, I’m @JMP-01
-- 👀 I’m interested in HTML/CSS, JavaScript, PHP and Python.
-- 🌱 I’m currently learning advanced HTML/CSS and the basics of Python.
-- 📫 How to reach me: You can contact me on Discord: My Discord-tag is: "P.#4686"
